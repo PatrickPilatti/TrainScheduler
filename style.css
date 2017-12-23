@@ -1,0 +1,20 @@
+ .jumbotron	{
+    border: 3px outset grey;
+    background-image: url(https://images4.alphacoders.com/448/thumb-1920-44816.jpg);
+    background-position-y: center;
+    background-size: 1450px;
+    text-indent: 100px;
+    color:bisque;
+};
+
+.panel-heading {
+    color: #fff;
+    background-color: #333;
+    border-color: #190b0b;
+};
+.btn-primary {
+    color: #fff;
+    background-color: #333;
+    border-color: #080808;
+    border: outset;
+};
